@@ -12,6 +12,9 @@ Basic Python Personal Face Detector
 # if it doesnt work or any error follow this method
 
 > 1.pip install opencv-python
+
 > 2.pip install cmake
+
 > 3.pip install dlib
+
 > 4.pip install face-recognition
