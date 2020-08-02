@@ -9,7 +9,7 @@ Basic Python Personal Face Detector
 3. python3 face.py
 
 
-#if it doesnt work or any error follow this method
+# if it doesnt work or any error follow this method
 
 1.pip install opencv-python
 2.pip install cmake
